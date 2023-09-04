@@ -1,0 +1,2 @@
+#!/bnin/bash
+tail /etc/passwd
